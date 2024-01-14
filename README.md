@@ -4,7 +4,19 @@
 
 ## Acerca de Mí
 
-Soy un profesional comprometido con la excelencia técnica y la satisfacción del cliente. Mi misión es transformar ideas en realidades digitales, proporcionando soluciones adaptadas a las necesidades específicas de cada proyecto.
+Soy un estudiante de DAW de primer año, que lleva más de un año trabajando como freelance en la plataforma [Fiverr]([https://www.aritzdesarrollo.com](https://es.fiverr.com/aritzjl)) (aquí mi perfil), gracias a ello, he podido participar en decenas de proyectos, con gente de todas partes del mundo, lo cual me ha dado la oportunidad de aprender a desenvolverme en diferentes ámbitos de la programación, además de realizar encargos con ideas innovadoras.
+
+## Conocimientos Técnicos
+
+- Python
+- Django
+- Pandas
+- Scikit-Learn
+- Java
+- HTML
+- CSS
+- Tailwind
+  
 
 ## Habilidades y Especialidades
 

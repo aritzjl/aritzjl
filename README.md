@@ -37,6 +37,6 @@ Soy un estudiante de DAW de primer año, que lleva más de un año trabajando co
 
 - **Correo Electrónico:** aritzzjl@gmail.com
 - **Número de teléfono:** +34 640 52 08 19
-- **Fiverr:** [Aritz en Fiverr]([https://es.fiverr.com/aritzjl])
+- **Fiverr:** [Aritz en Fiverr](https://es.fiverr.com/aritzjl)
 
 ¡Hablemos sobre cómo puedo ayudarte a alcanzar tus objetivos tecnológicos! 🚀

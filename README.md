@@ -4,7 +4,7 @@
 
 ## Acerca de Mí 💻
 
-Soy un estudiante de DAW de primer año, que lleva más de un año trabajando como freelance en la plataforma [Fiverr]([https://www.aritzdesarrollo.com](https://es.fiverr.com/aritzjl)) (aquí mi perfil), gracias a ello, he podido participar en decenas de proyectos, con gente de todas partes del mundo, lo cual me ha dado la oportunidad de aprender a desenvolverme en diferentes ámbitos de la programación, además de realizar encargos con ideas innovadoras.
+Soy un estudiante de DAW de primer año, que lleva más de un año trabajando como freelance en la plataforma [Aritz en Fiverr](https://es.fiverr.com/aritzjl), gracias a ello, he podido participar en decenas de proyectos, con gente de todas partes del mundo, lo cual me ha dado la oportunidad de aprender a desenvolverme en diferentes ámbitos de la programación, además de realizar encargos con ideas innovadoras.
 
 ## Conocimientos Técnicos 🛠️
 

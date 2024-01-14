@@ -9,13 +9,14 @@ Soy un estudiante de DAW de primer año, que lleva más de un año trabajando co
 ## Conocimientos Técnicos 🛠️
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="20"/> Python
-- Django
-- Pandas
-- Scikit-Learn
-- Java
-- HTML
-- CSS
-- Tailwind
+- <img src="https://download.logo.wine/logo/Django_(web_framework)/Django_(web_framework)-Logo.wine.png" alt="Django Logo" width="20"/> Django
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas Logo" width="20"/> Pandas
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn Logo" width="20"/> Scikit-learn
+- <img src="https://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" alt="Java Logo" width="20"/> Java
+- <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="HTML Logo" width="20"/> HTML
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS Logo" width="20"/> CSS
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS Logo" width="20"/> Tailwind CSS
+
 
 ## Habilidades y Especialidades 🎯
 

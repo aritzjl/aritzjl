@@ -8,7 +8,7 @@ Soy un estudiante de DAW de primer año, que lleva más de un año trabajando co
 
 ## Conocimientos Técnicos 🛠️
 
-- ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png) Python
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python Logo" width="20"/> Python
 - Django
 - Pandas
 - Scikit-Learn

@@ -11,20 +11,21 @@ Soy un estudiante de DAM de segundo año. Aunque comencé a estudiar programaci�
 ### Lenguajes de Programación:
 
 - <img src="https://github.com/user-attachments/assets/60ff1b7f-1ffa-4d34-a61f-8591fd9a3a3d" alt="Python" width="32px" height="32px" /> Python
-- Java
-- JavaScript (JS)
-- TypeScript
+- ![image](https://github.com/user-attachments/assets/aba5881a-09da-4b47-89f1-953b26894b5a) Java
+- ![image](https://github.com/user-attachments/assets/83ed8229-7777-48df-a8aa-667fa486d69f) Kotlin
+- ![image](https://github.com/user-attachments/assets/8e826f05-31a8-4f0f-91ee-9cd2a8f85764) JavaScript
+- ![image](https://github.com/user-attachments/assets/8b11c5aa-c303-49d2-a672-8b12f92fa1f2) TypeScript
 
 ### Frameworks Backend:
 
-- Django (Python)
-- FastAPI (Python)
-- Spring (Java)
+- ![image](https://github.com/user-attachments/assets/cca6f8dc-ed9f-4d44-ac58-5ebfd354c5d2) Django (Python)
+- ![image](https://github.com/user-attachments/assets/f59f3e98-bb47-4969-869d-a7372f7399f8) FastAPI (Python)
+- ![image](https://github.com/user-attachments/assets/6655f639-dff6-4e7b-926b-04927f78f6db) Spring (Java)
 
 ### Frameworks Frontend:
 
-- React Native (JavaScript/TypeScript)
-- Astro (JavaScript/TypeScript)
+- ![image](https://github.com/user-attachments/assets/d0ec8dbe-49d3-486e-91be-44a5ce6b81b0) React Native (JavaScript/TypeScript)
+- ![image](https://github.com/user-attachments/assets/c94a7238-6e7b-4630-8219-08ef4c96eafd) Astro (JavaScript/TypeScript)
 
 ## Habilidades y Especialidades 🎯
 

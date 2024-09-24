@@ -10,7 +10,7 @@ Soy un estudiante de DAM de segundo año. Aunque comencé a estudiar programaci�
 
 ### Lenguajes de Programación:
 
-- Python
+-  ![image](https://github.com/user-attachments/assets/60ff1b7f-1ffa-4d34-a61f-8591fd9a3a3d) Python
 - Java
 - JavaScript (JS)
 - TypeScript
@@ -20,7 +20,6 @@ Soy un estudiante de DAM de segundo año. Aunque comencé a estudiar programaci�
 - Django (Python)
 - FastAPI (Python)
 - Spring (Java)
-- Frameworks/Plataformas Frontend y Fullstack:
 
 ### Frameworks Frontend:
 

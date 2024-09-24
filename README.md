@@ -1,4 +1,4 @@
-# BACKEND DEVELOPER 🚀
+# FULL STACK DEVELOPER 🚀
 
 ¡Hola! Soy Aritz, bienvenido a mi modesto GitHub :)
 

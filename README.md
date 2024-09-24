@@ -10,7 +10,7 @@ Soy un estudiante de DAM de segundo año. Aunque comencé a estudiar programaci�
 
 ### Lenguajes de Programación:
 
--  ![image](https://github.com/user-attachments/assets/60ff1b7f-1ffa-4d34-a61f-8591fd9a3a3d) Python
+- <img src="https://github.com/user-attachments/assets/60ff1b7f-1ffa-4d34-a61f-8591fd9a3a3d" alt="Python" width="32px" height="32px" /> Python
 - Java
 - JavaScript (JS)
 - TypeScript

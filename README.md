@@ -41,6 +41,6 @@ Desarrollamos herramientas de **IA Local para el sector de Protección Social**.
 
 - **Web:** [aritzjaber.com](https://aritzjaber.com) | [TenBeltz](https://tenbeltz.com)
 - **Email:** [aritzzjl@gmail.com](mailto:aritzzjl@gmail.com)
-- **LinkedIn:** [Aritz Jaber](https://www.linkedin.com/in/aritz-jaber-lopes-08b506263/)
+- **LinkedIn:** [Aritz Jaber](https://www.linkedin.com/in/aritzjl/)
 
 *"Donde la IA avanzada se encuentra con la privacidad absoluta."*

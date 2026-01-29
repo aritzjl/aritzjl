@@ -1,51 +1,46 @@
-# FULL STACK DEVELOPER 🚀
+# Software Engineer & Tech Founder 🚀
 
-¡Hola! Soy Aritz, bienvenido a mi modesto GitHub :)
+¡Hola! Soy **Aritz Jaber**. Mi trabajo se centra en la intersección entre la **IA de vanguardia**, la **privacidad de datos** y la **ingeniería de producto**. 
 
-## Acerca de Mí 💻
+Me especializo en desplegar soluciones de IA que no solo son potentes, sino también seguras, éticas y eficientes en entornos de producción reales.
 
-Soy un estudiante de DAM de segundo año. Aunque comencé a estudiar programación de forma autodidacta unos meses antes de comenzar el grado. Además, ya hace casi dos años que comencé a trabajar como desarrollador Freelance, para empresas de diferentes tamaños y sectores.
+[![Portfolio](https://img.shields.io/badge/Portfolio-aritzjaber.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aritzjaber.com)
+[![TenBeltz](https://img.shields.io/badge/TenBeltz-IA_en_Producción-black?style=for-the-badge)](https://tenbeltz.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aritz_Jaber-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aritzjl/)
 
-## Conocimientos Técnicos 🛠️
+## 🛠️ Proyectos Actuales
 
+### 🐺 [TenBeltz](https://tenbeltz.com) | Co-founder & AI Engineer
+Transformamos el "hype" de la IA en herramientas de negocio reales para SaaS. Nos enfocamos en la **fiabilidad medible**, observabilidad y el control exhaustivo de costes para evitar sorpresas en el escalado.
 
-### Lenguajes de Programación:
+### 💡 [Biiak](https://biiak.com) | Co-founder & Tech Lead
+Desarrollamos herramientas de **IA Local para el sector de Protección Social**. Mi foco aquí es la implementación de modelos soberanos (Local LLMs) que garantizan la privacidad absoluta de datos sensibles, eliminando la dependencia de nubes externas.
 
-- <img src="https://github.com/user-attachments/assets/60ff1b7f-1ffa-4d34-a61f-8591fd9a3a3d" alt="Python" width="32px" height="32px" /> Python
-- <img src="https://github.com/user-attachments/assets/aba5881a-09da-4b47-89f1-953b26894b5a" alt="Java" width="32px" height="32px" /> Java
-- <img src="https://github.com/user-attachments/assets/83ed8229-7777-48df-a8aa-667fa486d69f" alt="Kotlin" width="32px" height="32px" /> Kotlin
-- <img src="https://github.com/user-attachments/assets/8e826f05-31a8-4f0f-91ee-9cd2a8f85764" alt="JavaScript" width="32px" height="32px" /> JavaScript
-- <img src="https://github.com/user-attachments/assets/8b11c5aa-c303-49d2-a672-8b12f92fa1f2" alt="TypeScript" width="32px" height="32px" /> TypeScript
+---
 
-### Frameworks Backend:
+## 🧠 Especialidades Técnicas
 
-- <img src="https://github.com/user-attachments/assets/cca6f8dc-ed9f-4d44-ac58-5ebfd354c5d2" alt="Django" width="32px" height="32px" /> Django (Python)
-- <img src="https://github.com/user-attachments/assets/f59f3e98-bb47-4969-869d-a7372f7399f8" alt="FastAPI" width="32px" height="32px" /> FastAPI (Python)
-- <img src="https://github.com/user-attachments/assets/6655f639-dff6-4e7b-926b-04927f78f6db" alt="Spring" width="32px" height="32px" /> Spring (Java)
+| Área | Tecnologías & Enfoque |
+| :--- | :--- |
+| **Local & Edge AI** | Despliegue de modelos locales (Llama 3, Mistral), cuantización y optimización de inferencia. |
+| **AI Engineering** | RAG avanzado, sistemas de agentes y arquitecturas orientadas a la privacidad. |
+| **Backend & Infra** | Python (FastAPI), Go, Docker, despliegues On-premise y Hybrid Cloud. |
+| **Product Engineer** | Construcción de interfaces intuitivas (React/Astro) para procesos de datos complejos. |
 
-### Frameworks Frontend:
+## 🎯 Mi Compromiso
 
-- <img src="https://github.com/user-attachments/assets/d0ec8dbe-49d3-486e-91be-44a5ce6b81b0" alt="React Native" width="32px" height="32px" /> React Native (JavaScript/TypeScript)
-- <img src="https://github.com/user-attachments/assets/c94a7238-6e7b-4630-8219-08ef4c96eafd" alt="Astro" width="32px" height="32px" /> Astro (JavaScript/TypeScript)
+- **Privacidad por Diseño:** Especialmente en sectores críticos como la protección social, la tecnología debe proteger al usuario.
+- **Ingeniería de Producción:** Menos demos, más sistemas que funcionen 24/7 con métricas claras de éxito.
+- **Soberanía Tecnológica:** Ayudo a las organizaciones a ser dueñas de su propia inteligencia sin ceder sus datos.
 
-## Habilidades y Especialidades 🎯
+---
 
-- Desarrollo de software personalizado
-- Diseño y creación de sitios web y apps a medida
-- Integración de tecnologías emergentes, incluida la inteligencia artificial
-- Servicios de almacenamiento en la nube y administración de servidores
+### 📬 Conectemos
 
-## Por Qué Trabajar Conmigo 🤝
+¿Buscas implementar IA de forma profesional o necesitas soluciones locales seguras?
 
-1. **Enfoque Personalizado:** Cada proyecto recibe una atención individualizada para garantizar resultados excepcionales.
-2. **Innovación Constante:** Mantengo una mentalidad proactiva hacia las últimas tendencias tecnológicas para ofrecer soluciones vanguardistas.
-3. **Compromiso con la Calidad:** La excelencia técnica y la satisfacción del cliente son mis principales prioridades.
+- **Web:** [aritzjaber.com](https://aritzjaber.com) | [TenBeltz](https://tenbeltz.com)
+- **Email:** [aritzzjl@gmail.com](mailto:aritzzjl@gmail.com)
+- **LinkedIn:** [Aritz Jaber](https://www.linkedin.com/in/aritz-jaber-lopes-08b506263/)
 
-## Contacto 📧 📞
-
-¡Estoy emocionado por la posibilidad de colaborar contigo! Si tienes un proyecto interesante o simplemente quieres conocerme, no dudes en contactarme:
-
-- **Correo Electrónico:** aritzzjl@gmail.com
-- **Número de teléfono:** +34 640 52 08 19
-
-¡Hablemos sobre cómo puedo ayudarte a alcanzar tus objetivos tecnológicos! 🚀
+*"Donde la IA avanzada se encuentra con la privacidad absoluta."*

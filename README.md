@@ -25,7 +25,7 @@ Empiezo por una tarea concreta y la pruebo con ejemplos del trabajo diario. En p
 
 ## Docencia y reconocimiento
 
-Soy docente del Máster de IA Generativa de **The Bridge**. También he impartido **30 horas de formación técnica sobre LLMs locales en producción**, centradas en vLLM, arquitecturas privadas y evaluación.
+Imparto formación en IA aplicada a empresas y equipos técnicos.
 
 Con **SustainaAI** gané el primer premio de **Provider 2025** en BIC Bizkaia.
 

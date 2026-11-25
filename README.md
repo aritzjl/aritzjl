@@ -1,33 +1,51 @@
-![Aritz Jaber Lopes · Bilbao, Bizkaia](assets/portada-cinematica.webp)
+![Aritz Jaber Lopes · Bilbao, Bizkaia](assets/portada.webp)
 
 # Ingeniería de IA en producción
 
 Soy cofundador y líder técnico de **TenBeltz**. Trabajo con pymes de servicios profesionales y despachos para automatizar tareas con documentos, informes y herramientas de gestión. También ayudo a equipos de software a integrar IA en sus productos.
 
-[**TenBeltz**](https://tenbeltz.com/) · [**Proyectos**](https://tenbeltz.com/casos) · [**LinkedIn**](https://www.linkedin.com/in/aritzjl/)
+<p>
+  <a href="https://tenbeltz.com/"><img src="assets/accion-tenbeltz.webp" width="119" alt="Visitar TenBeltz"></a>
+  <a href="https://www.linkedin.com/in/aritzjl/"><img src="assets/accion-linkedin.webp" width="120" alt="Ver LinkedIn"></a>
+  <a href="mailto:aritz@tenbeltz.com"><img src="assets/accion-contacto.webp" width="131" alt="Escríbeme a aritz@tenbeltz.com"></a>
+</p>
 
 ## Proyectos seleccionados
 
-### [Clasificación documental](https://tenbeltz.com/casos#clasificacion-documental)
-
-**91,51 % top-5** en un test de **1.414 documentos**. El sistema propone las subcategorías más probables para que un equipo de administración de fincas pueda revisar y clasificar sus documentos.
-
-- [**Informes periciales →**](https://tenbeltz.com/casos#informes-periciales) Extracción de datos clínicos y borradores por secciones con comprobaciones de coherencia y revisión profesional.
-- [**Qamarero →**](https://tenbeltz.com/casos#qamarero) Implementé un agente telefónico que consulta disponibilidad y registra reservas en el SaaS de hostelería.
-- [**Biiak →**](https://tenbeltz.com/casos#biiak) Cofundé y dirigí el desarrollo técnico de una plataforma de expedientes con gestión de permisos e IA local para equipos de protección a la infancia.
+<p>
+  <a href="https://tenbeltz.com/casos#clasificacion-documental"><img src="assets/caso-documentos.webp" width="344" alt="Clasificación documental. 91,51 % de acierto top-5 en un test de 1.414 documentos. Ver caso."></a>
+  <a href="https://tenbeltz.com/casos#informes-periciales"><img src="assets/caso-informes.webp" width="344" alt="Informes periciales. De documentación clínica a borradores por secciones, con revisión profesional. Ver caso."></a>
+  <a href="https://tenbeltz.com/casos#qamarero"><img src="assets/caso-qamarero.webp" width="344" alt="Qamarero. Implementé un agente telefónico conectado al SaaS para consultar y registrar reservas. Ver caso."></a>
+  <a href="https://tenbeltz.com/casos#biiak"><img src="assets/caso-biiak.webp" width="344" alt="Biiak. Producto que cofundé para equipos de protección a la infancia, con expedientes, permisos e IA local. Ver caso."></a>
+</p>
 
 ## Cómo trabajo
 
 Empiezo por una tarea concreta y la pruebo con ejemplos del trabajo diario. En producción me fijo en la calidad de las respuestas, qué se puede comprobar con trazas y cuánto cuesta cada ejecución.
 
-- **IA aplicada** · RAG con fuentes consultables, agentes conectados a herramientas y despliegue de modelos locales con vLLM.
-- **Ingeniería de producto** · Python, FastAPI, Django, TypeScript, PostgreSQL y Docker.
-- **Evaluación y operación** · Casos de prueba, detección de regresiones, trazas con Langfuse y control de coste por tarea.
+<details>
+<summary><strong>IA aplicada</strong> · RAG, agentes y modelos locales</summary>
+
+Construyo sistemas que consultan fuentes, conectan herramientas y, cuando el proyecto lo requiere, ejecutan modelos locales con `vLLM`.
+
+</details>
+
+<details>
+<summary><strong>Ingeniería de producto</strong> · APIs, datos e integración</summary>
+
+Trabajo con `Python`, `FastAPI`, `Django`, `TypeScript`, `PostgreSQL` y `Docker` para integrar la IA en el flujo que ya usa el equipo.
+
+</details>
+
+<details>
+<summary><strong>Evaluación y operación</strong> · Calidad, trazas y coste</summary>
+
+Defino casos de prueba para detectar regresiones, uso `Langfuse` para seguir las ejecuciones y mido el coste por tarea.
+
+</details>
 
 ## Docencia y reconocimiento
 
 Imparto formación en IA aplicada a empresas y equipos técnicos.
 
 Con **SustainaAI** gané el primer premio de **Provider 2025** en BIC Bizkaia.
-
-Si tienes una tarea que quieres automatizar o una funcionalidad de IA que quieres llevar a producción, [**escríbeme**](mailto:aritz@tenbeltz.com).

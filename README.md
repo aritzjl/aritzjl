@@ -7,7 +7,7 @@ Soy cofundador y líder técnico de **TenBeltz**. Trabajo con pymes de servicios
 <p>
   <a href="https://tenbeltz.com/"><img src="assets/accion-tenbeltz.webp" width="119" alt="Visitar TenBeltz"></a>
   <a href="https://www.linkedin.com/in/aritzjl/"><img src="assets/accion-linkedin.webp" width="120" alt="Ver LinkedIn"></a>
-  <a href="mailto:aritz@tenbeltz.com"><img src="assets/accion-contacto.webp" width="131" alt="Escríbeme a aritz@tenbeltz.com"></a>
+  <a href="https://tenbeltz.com/#contact-section"><img src="assets/accion-contacto.webp" width="131" alt="Escríbeme a través del formulario de TenBeltz"></a>
 </p>
 
 ## Proyectos seleccionados
@@ -23,26 +23,11 @@ Soy cofundador y líder técnico de **TenBeltz**. Trabajo con pymes de servicios
 
 Empiezo por una tarea concreta y la pruebo con ejemplos del trabajo diario. En producción me fijo en la calidad de las respuestas, qué se puede comprobar con trazas y cuánto cuesta cada ejecución.
 
-<details>
-<summary><strong>IA aplicada</strong> · RAG, agentes y modelos locales</summary>
+**IA aplicada** · RAG con fuentes consultables, agentes conectados a herramientas y modelos locales con `vLLM`.
 
-Construyo sistemas que consultan fuentes, conectan herramientas y, cuando el proyecto lo requiere, ejecutan modelos locales con `vLLM`.
+**Ingeniería de producto** · `Python` · `FastAPI` · `Django` · `TypeScript` · `PostgreSQL` · `Docker`
 
-</details>
-
-<details>
-<summary><strong>Ingeniería de producto</strong> · APIs, datos e integración</summary>
-
-Trabajo con `Python`, `FastAPI`, `Django`, `TypeScript`, `PostgreSQL` y `Docker` para integrar la IA en el flujo que ya usa el equipo.
-
-</details>
-
-<details>
-<summary><strong>Evaluación y operación</strong> · Calidad, trazas y coste</summary>
-
-Defino casos de prueba para detectar regresiones, uso `Langfuse` para seguir las ejecuciones y mido el coste por tarea.
-
-</details>
+**Evaluación y operación** · Casos de prueba para detectar regresiones, trazas con `Langfuse` y coste por tarea.
 
 ## Docencia y reconocimiento
 

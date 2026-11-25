@@ -21,13 +21,7 @@ Soy cofundador y líder técnico de **TenBeltz**. Trabajo con pymes de servicios
 
 ## Cómo trabajo
 
-Empiezo por una tarea concreta y la pruebo con ejemplos del trabajo diario. En producción me fijo en la calidad de las respuestas, qué se puede comprobar con trazas y cuánto cuesta cada ejecución.
-
-**IA aplicada** · RAG con fuentes consultables, agentes conectados a herramientas y modelos locales con `vLLM`.
-
-**Ingeniería de producto** · `Python` · `FastAPI` · `Django` · `TypeScript` · `PostgreSQL` · `Docker`
-
-**Evaluación y operación** · Casos de prueba para detectar regresiones, trazas con `Langfuse` y coste por tarea.
+Empiezo por entender cómo se hace el trabajo hoy. Elijo las herramientas según lo que necesita cada proyecto, pruebo la solución con ejemplos reales y, en producción, compruebo la calidad del resultado y el coste por tarea.
 
 ## Docencia y reconocimiento
 

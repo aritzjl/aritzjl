@@ -1,4 +1,4 @@
-![Aritz Jaber Lopes · Bilbao, Bizkaia](assets/portada.webp)
+![Aritz Jaber Lopes · Bilbao, Bizkaia](assets/portada-cinematica.webp)
 
 # Ingeniería de IA en producción
 
@@ -8,12 +8,13 @@ Soy cofundador y líder técnico de **TenBeltz**. Trabajo con pymes de servicios
 
 ## Proyectos seleccionados
 
-| Proyecto | Qué hicimos |
-| :--- | :--- |
-| [**Informes periciales**](https://tenbeltz.com/casos#informes-periciales) | Extracción de datos de documentación clínica y borradores por secciones, con comprobaciones de coherencia y revisión profesional. |
-| [**Clasificación documental**](https://tenbeltz.com/casos#clasificacion-documental) | Sistema que propone categorías para documentos de comunidades de propietarios. En un test de 1.414 documentos, el sistema incluyó la subcategoría correcta entre sus cinco primeras opciones en el 91,51 % de los casos. |
-| [**Qamarero**](https://tenbeltz.com/casos#qamarero) | Implementé un agente telefónico de reservas conectado al SaaS de hostelería para consultar disponibilidad y registrar reservas. |
-| [**Biiak**](https://tenbeltz.com/casos#biiak) | Cofundé y dirigí el desarrollo técnico de una plataforma para equipos de protección a la infancia, con gestión de expedientes, permisos e IA local. |
+### [Clasificación documental](https://tenbeltz.com/casos#clasificacion-documental)
+
+**91,51 % top-5** en un test de **1.414 documentos**. El sistema propone las subcategorías más probables para que un equipo de administración de fincas pueda revisar y clasificar sus documentos.
+
+- [**Informes periciales →**](https://tenbeltz.com/casos#informes-periciales) Extracción de datos clínicos y borradores por secciones con comprobaciones de coherencia y revisión profesional.
+- [**Qamarero →**](https://tenbeltz.com/casos#qamarero) Implementé un agente telefónico que consulta disponibilidad y registra reservas en el SaaS de hostelería.
+- [**Biiak →**](https://tenbeltz.com/casos#biiak) Cofundé y dirigí el desarrollo técnico de una plataforma de expedientes con gestión de permisos e IA local para equipos de protección a la infancia.
 
 ## Cómo trabajo
 

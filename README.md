@@ -1,46 +1,32 @@
-# Software Engineer & Tech Founder 🚀
+![Aritz Jaber Lopes · Bilbao, Bizkaia](assets/portada.webp)
 
-¡Hola! Soy **Aritz Jaber**. Mi trabajo se centra en la intersección entre la **IA de vanguardia**, la **privacidad de datos** y la **ingeniería de producto**. 
+# Ingeniería de IA en producción
 
-Me especializo en desplegar soluciones de IA que no solo son potentes, sino también seguras, éticas y eficientes en entornos de producción reales.
+Soy cofundador y líder técnico de **TenBeltz**. Trabajo con pymes de servicios profesionales y despachos para automatizar tareas con documentos, informes y herramientas de gestión. También ayudo a equipos de software a integrar IA en sus productos.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aritzjaber.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aritzjaber.com)
-[![TenBeltz](https://img.shields.io/badge/TenBeltz-IA_en_Producción-black?style=for-the-badge)](https://tenbeltz.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aritz_Jaber-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aritzjl/)
+[**TenBeltz**](https://tenbeltz.com/) · [**Proyectos**](https://tenbeltz.com/casos) · [**LinkedIn**](https://www.linkedin.com/in/aritzjl/)
 
-## 🛠️ Proyectos Actuales
+## Proyectos seleccionados
 
-### 🐺 [TenBeltz](https://tenbeltz.com) | Co-founder & AI Engineer
-Transformamos el "hype" de la IA en herramientas de negocio reales para SaaS. Nos enfocamos en la **fiabilidad medible**, observabilidad y el control exhaustivo de costes para evitar sorpresas en el escalado.
-
-### 💡 [Biiak](https://biiak.com) | Co-founder & Tech Lead
-Desarrollamos herramientas de **IA Local para el sector de Protección Social**. Mi foco aquí es la implementación de modelos soberanos (Local LLMs) que garantizan la privacidad absoluta de datos sensibles, eliminando la dependencia de nubes externas.
-
----
-
-## 🧠 Especialidades Técnicas
-
-| Área | Tecnologías & Enfoque |
+| Proyecto | Qué hicimos |
 | :--- | :--- |
-| **Local & Edge AI** | Despliegue de modelos locales (Llama 3, Mistral), cuantización y optimización de inferencia. |
-| **AI Engineering** | RAG avanzado, sistemas de agentes y arquitecturas orientadas a la privacidad. |
-| **Backend & Infra** | Python (FastAPI), Go, Docker, despliegues On-premise y Hybrid Cloud. |
-| **Product Engineer** | Construcción de interfaces intuitivas (React/Astro) para procesos de datos complejos. |
+| [**Informes periciales**](https://tenbeltz.com/casos#informes-periciales) | Extracción de datos de documentación clínica y borradores por secciones, con comprobaciones de coherencia y revisión profesional. |
+| [**Clasificación documental**](https://tenbeltz.com/casos#clasificacion-documental) | Sistema que propone categorías para documentos de comunidades de propietarios. En un test de 1.414 documentos, el sistema incluyó la subcategoría correcta entre sus cinco primeras opciones en el 91,51 % de los casos. |
+| [**Qamarero**](https://tenbeltz.com/casos#qamarero) | Implementé un agente telefónico de reservas conectado al SaaS de hostelería para consultar disponibilidad y registrar reservas. |
+| [**Biiak**](https://tenbeltz.com/casos#biiak) | Cofundé y dirigí el desarrollo técnico de una plataforma para equipos de protección a la infancia, con gestión de expedientes, permisos e IA local. |
 
-## 🎯 Mi Compromiso
+## Cómo trabajo
 
-- **Privacidad por Diseño:** Especialmente en sectores críticos como la protección social, la tecnología debe proteger al usuario.
-- **Ingeniería de Producción:** Menos demos, más sistemas que funcionen 24/7 con métricas claras de éxito.
-- **Soberanía Tecnológica:** Ayudo a las organizaciones a ser dueñas de su propia inteligencia sin ceder sus datos.
+Empiezo por una tarea concreta y la pruebo con ejemplos del trabajo diario. En producción me fijo en la calidad de las respuestas, qué se puede comprobar con trazas y cuánto cuesta cada ejecución.
 
----
+- **IA aplicada** · RAG con fuentes consultables, agentes conectados a herramientas y despliegue de modelos locales con vLLM.
+- **Ingeniería de producto** · Python, FastAPI, Django, TypeScript, PostgreSQL y Docker.
+- **Evaluación y operación** · Casos de prueba, detección de regresiones, trazas con Langfuse y control de coste por tarea.
 
-### 📬 Conectemos
+## Docencia y reconocimiento
 
-¿Buscas implementar IA de forma profesional o necesitas soluciones locales seguras?
+Soy docente del Máster de IA Generativa de **The Bridge**. También he impartido **30 horas de formación técnica sobre LLMs locales en producción**, centradas en vLLM, arquitecturas privadas y evaluación.
 
-- **Web:** [aritzjaber.com](https://aritzjaber.com) | [TenBeltz](https://tenbeltz.com)
-- **Email:** [aritzzjl@gmail.com](mailto:aritzzjl@gmail.com)
-- **LinkedIn:** [Aritz Jaber](https://www.linkedin.com/in/aritzjl/)
+Con **SustainaAI** gané el primer premio de **Provider 2025** en BIC Bizkaia.
 
-*"Donde la IA avanzada se encuentra con la privacidad absoluta."*
+Si tienes una tarea que quieres automatizar o una funcionalidad de IA que quieres llevar a producción, [**escríbeme**](mailto:aritz@tenbeltz.com).
